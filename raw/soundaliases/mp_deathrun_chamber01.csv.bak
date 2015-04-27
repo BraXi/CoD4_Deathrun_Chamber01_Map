@@ -1,0 +1,14 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage
+
+
+chamber1_platform_down,,doors/door_container_burst_open1.wav,1.0,0.7,,,,500,900,auto,streamed,,,,mp_deathrun_chamber01,,,,,,,,,,,,,
+chamber1_helicopter_over,,vehicles/veh_seaknight_idle_v5.wav,0.5,0.4,,,,900,2048,auto,streamed,,looping,,mp_deathrun_chamber01,,,,,,,,,,,,,
+
+blast_door_open,,doors/door_container_push_open1.wav,1.0,0.7,,,,330,520,auto,streamed,,,,mp_deathrun_chamber01,,,,,,,,,,,,,
+
+platform_move,,amb_elements/elm_ac130_hydraulics01.wav,1.0,0.4,,,,650,750,auto,streamed,,looping,,mp_deathrun_chamber01,,,,,,,,,,,,,
+platform_beep,,amb_elements/elm_ac130_beeps1.wav,1.0,0.6,,,,600,700,auto,streamed,,looping,,mp_deathrun_chamber01,,,,,,,,,,,,,
+
+dead_soon,,level/playground_soonbedead.wav,0.7,0.3,,,,400,460,auto,streamed,,looping,,mp_deathrun_chamber01,,,,,,,,,,,,,
+
+ambient_course01,,ambient/amb_launchb_int0v2_lr.mp3,1.0,0.7,,,,,,ambient,streamed,,looping,,mp_deathrun_chamber01,,,,,ambience,,,,,,,,
